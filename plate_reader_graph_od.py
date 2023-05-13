@@ -22,7 +22,7 @@ df = df.iloc[6:103, 3:99]
 # df = df.iloc[7:103, 3:32]
 
 # df.columns = column_name
-
+# wocaonima 
 print(df)
 #convert the df to numeric type
 for i in range (len (df.iloc[0])):
